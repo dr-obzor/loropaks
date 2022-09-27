@@ -9,6 +9,8 @@
 		
 		<meta name=”description” content=”Сайт производителя препарата Лоропакс для профилактики нарушений слуха. Узнайте информацию о составе, свойствах, эффективности и отзывах покупателей”>
 		
+		<link type=”image/x-icon” href=”https://dr-obzor.github.io/loropaks/favicon.ico” rel=”shortcut icon”>
+		
 		<link rel="stylesheet" href="./css/main.css" />
 		<link rel="stylesheet" href="./css/fonts.css" />
 		<link rel="stylesheet" href="./css/media.css" />
